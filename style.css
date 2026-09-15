@@ -1,0 +1,56 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    background-color: rgb(255, 168, 185);
+    min-width: 300px;
+    max-width: 1000px;
+    padding: 20px;
+    margin: auto;
+}
+
+main h1{
+    color: #ac006d;
+    font-family:Cambria, Cochin;
+    font-weight: normal;
+    padding: 20px;
+}
+
+main p{
+    color: #ac006d;
+    font-family:Cambria, Cochin;
+    font-weight: normal;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}
+
+main h2{
+     color: #ac006d;
+    font-family:Cambria, Cochin;
+    font-weight: normal;
+    margin: auto;
+    padding: 10px;
+}
+
+main img{
+    width: 100%;
+    max-width: 350px;
+    display: block;
+    margin: auto;
+}
+
+.musica{
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    max-width: 400px;
+    margin: 20px auto;
+    border: 2px solid var(--cor1)
+
+}
